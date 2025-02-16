@@ -23,3 +23,27 @@ header{
     padding-left: 30vw;
     display: flex;
 }
+
+#big-box{
+    display: flex;
+    justify-content: space-between;
+}
+
+#bich-vala{
+    border-style: solid;
+    width: 70%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 16vw;
+    flex-direction: column;
+    gap: 10vw;
+}
+
+#bich-vala h6{
+    font-size: 3vw;
+}
+#bich-vala h1{
+    font-size: 7vw;
+    text-align: center;   
+}
