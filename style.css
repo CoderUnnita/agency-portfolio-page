@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,100..900;1,100..900&family=Poltawski+Nowy:ital,wght@0,400..700;1,400..700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poltawski Nowy", serif;
+
+}
+
+html, body{
+    width: 100%;
+    height: 100%;
+}
+
+
+header{
+    background-color: #3B54F6;  /* transpaent */
+    height: 20vh;
+    width: 100%;
+    align-items: center;
+    justify-content: space-around;
+    padding-left: 30vw;
+    display: flex;
+}
